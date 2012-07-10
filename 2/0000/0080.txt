@@ -88,9 +88,9 @@ Medaglia data per dimostrare di\xfffeaver avuto il primo uovo.
 Medaglia data per dimostrare di\xfffeaver avuto 10 uova dalla Day Care.
 Medaglia data per dimostrare di\xfffeaver avuto 50 uova dalla Day Care.
 Medaglia data per dimostrare di\xfffeaver avuto 100 uova dalla Day Care.
-Medal to show you've\xfffehad the Day Care couple look after\xfffeseveral Pokémon.
+Medaglia data per dimostrare di\xfffehad the Day Care couple look after\xfffeseveral Pokémon.
 Medaglia data per dimostrare di\xfffeaver fatto ritornare in vita un fossile.
-Medal to show you've\xfffecaptured N's Pokémon.
+Medaglia data per dimostrare di\xfffecaptured N's Pokémon.
 Medaglia data per dimostrare di\xfffeaver catturato il tuo primo Pokémon shiny.
 Medaglia data per dimostrare di\xfffeaver avuto un Pokémon con il PokéRus.
 Medaglia data per dimostrare di\xfffeaver battuto la gang di Castelia City's.
@@ -99,7 +99,7 @@ Medaglia data per dimostrare di\xfffeaver visto un Wailord nel Marine Tube.
 Medaglia data per dimostrare di\xfffeaver scattato una foto a Frillish a\xfffeSeigaiha City.
 Medaglia data per dimostrare di\xfffeaver interagito con tutte le auto possibili.
 Medaglia data per dimostrare di\xfffeessere arrivato sul pavimento delle Abyssal Ruins.
-Medal to show you've\xfffeexperienced the Diamond Dust weather\xfffeat least once.
+Medaglia data per dimostrare di\xfffeexperienced the Diamond Dust weather\xfffeat least once.
 Medaglia data per dimostrare di\xfffeaver attraversato tutti i ponti di Unima.
 Medaglia data per dimostrare di\xfffeaver visitato tutte le aree di Unima.
 Medaglia data per dimostrare di\xfffeaver collezzionato tutte le Adventure Medals.
@@ -113,7 +113,7 @@ Medaglia data per dimostrare di\xfffeaver partecipato a 50 battaglie wireless.
 Medaglia data per dimostrare di\xfffeaver partecipato a 100 battaglie wireless.
 Medaglia data per dimostrare di\xfffeaver visto tutti i tipi di condizioni climatiche.
 Medaglia data per dimostrare di\xfffenon essersi ritirato dalla perdita di una lotta.
-Medal to show you've\xfffegot a Pokémon that doesn't affect one\xfffeof your Pokémon.
+Medaglia data per dimostrare di\xfffegot a Pokémon that doesn't affect one\xfffeof your Pokémon.
 Medaglia data per dimostrare di\xfffeessere riuscito a scagliare molti colpi superefficaci.
 Medaglia data per dimostrare di\xfffeaver lottato almeno una volta in una Battle Subway
 Medaglia data per dimostrare di\xfffeaver raggiunto una striscia di 10 nella Battle Subway.
@@ -176,17 +176,17 @@ Medaglia data per dimostrare di\xfffeaver registrato una persona nel\fffetuo Blo
 Medaglia data per dimostrare di\xfffeaver registrato 5 persona nel\fffetuo Blocco Amici.
 Medaglia data per dimostrare di\xfffeaver registrato 10 persona nel\fffetuo Blocco Amici.
 Medaglia data per dimostrare di\xfffeaver comunicato con una\fffepersona straniera.
-Medal to show you've\xfffemade a Spin Trade.
+Medaglia data per dimostrare di\xfffemade a Spin Trade.
 Medaglia data per dimostrare di\xfffeaver usato il Feeling Check.
 Medaglia data per dimostrare di\xfffeaver usato il Feeling Check 80 volte.
 Medaglia data per dimostrare di\xfffeessere andato sulla Ruota Paronamica\fffecon molte persone.
-Medaglia data per dimostrare che\xfffe10 persone si sono unite alla tua Join Avenue.
-Medaglia data per dimostrare che\xfffe20 persone si sono unite alla tua Join Avenue.
-Medaglia data per dimostrare che\xfffe50 persone si sono unite alla tua Join Avenue.
-Medaglia data per dimostrare che\xfffe100 persone si sono unite alla tua Join Avenue.
+Medaglia data per dimostrare che\xfffe10 persone si sono unite alla tua Avventura
+Medaglia data per dimostrare che\xfffe20 persone si sono unite alla tua Avventura
+Medaglia data per dimostrare che\xfffe50 persone si sono unite alla tua Avventura
+Medaglia data per dimostrare che\xfffe100 persone si sono unite alla tua Avventura
 Medaglia data per dimostrare di\xfffeaver aperto 5 negozi nella tua Join Avenue.
 Medaglia data per dimostrare di\xfffeaver aperto 10 negozi nella Join Avenue.
-Medaglia data per dimostrare di\xfffeaver aperto 20 negozi nella Join Avenue.
+Medaglia data per dimostrare di\xfffeaver aperto 20 negozi nella Join Avenue
 Medaglia data per dimostrare di\xfffeaver aperto 50 negozi nella Join Avenue.
 Medaglia data per dimostrare di\xfffeaver acquistato 10 oggetti dalla Join Avenue.
 Medaglia data per dimostrare di\xfffeaver acquistato 30 oggetti dalla Join Avenue.
